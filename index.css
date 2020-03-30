@@ -6,3 +6,49 @@
 .showing {
     display : block;
 }
+
+.image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+body {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 290px;
+  margin-bottom: 0;
+  font-size: 100px;
+}
+
+input {
+  margin-top: 10px;
+  border: none;
+  border-radius: 30px;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+.greeting{
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.todoList {
+  font-size: 25px;
+}
+
+.weather {
+  position: absolute;
+  top: 10px;
+  right : 10px;
+}
