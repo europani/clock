@@ -45,6 +45,8 @@ input {
 
 .todoList {
   font-size: 25px;
+  text-align: absolute;
+  padding-left: 0px;
 }
 
 .weather {
