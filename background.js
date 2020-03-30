@@ -1,6 +1,6 @@
 const sbody = document.querySelector("body");
 
-const IMG_NUMBER = 3;
+const IMG_NUMBER = 4;
 
 
 function paintBackground(number) {
